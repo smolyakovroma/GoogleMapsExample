@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "RouteMapViewController.viewController(_:didAutocompleteWith:):RouteMapViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "place">
+            </PersistentString>
+            <PersistentString
+               value = "place.coordinate.latitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "specialized closure #1 in ViewController.viewDidLoad():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pm.isoCountryCode">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
